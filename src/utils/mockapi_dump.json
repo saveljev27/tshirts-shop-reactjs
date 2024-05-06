@@ -1,0 +1,202 @@
+[
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/anthracite_2.jpg?v=1708695127&width=360",
+    "title": "Tropical Squall T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 42.99,
+    "category": 1,
+    "rating": 12,
+    "types": [0, 1],
+    "id": "1"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/anthracite_1.jpg?v=1708695127&width=360",
+    "title": "Anthracite T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 24.99,
+    "category": 1,
+    "rating": 49,
+    "types": [0, 1],
+    "id": "2"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Mesadetrabajo5_bf3a2485-09ed-47f9-8dc0-067a0940b146.jpg?v=1704875569&width=360",
+    "title": "Is Fine T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 34.99,
+    "category": 2,
+    "rating": 62,
+    "types": [0, 1],
+    "id": "3"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Mown_4fb72ba0-3449-40e0-8ce6-a8f7aa708817.jpg?v=1699858754&width=360",
+    "title": "Mown T-Shirt",
+    "sizes": [0, 1],
+    "price": 19.99,
+    "category": 3,
+    "rating": 35,
+    "types": [0, 1],
+    "id": "4"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Nature_1.jpg?v=1705328306&width=360",
+    "title": "Nature T-Shirt",
+    "sizes": [0, 1],
+    "price": 32.99,
+    "category": 3,
+    "rating": 87,
+    "types": [0, 1],
+    "id": "5"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Sweetsweetsunshine_2d2d1d3d-ccd8-44b8-9531-553fc96e0790.jpg?v=1699358450&width=360",
+    "title": "Sweet Sunshine T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 28.99,
+    "category": 3,
+    "rating": 84,
+    "types": [0, 1],
+    "id": "6"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/SKULL-ANTRACITE.jpg?v=1714050591&width=360",
+    "title": "Skull T-Shirt",
+    "sizes": [0],
+    "price": 28.99,
+    "category": 1,
+    "rating": 42,
+    "types": [0, 1],
+    "id": "7"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/cooper2.jpg?v=1714050591&width=360",
+    "title": "Cooper T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 28.99,
+    "category": 3,
+    "rating": 51,
+    "types": [0, 1],
+    "id": "8"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Witukalinelandscapedelantera_da9380a6-795a-4052-9985-0e78b6ef387b.jpg?v=1714637360&width=360",
+    "title": "Landscape T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 1,
+    "rating": 12,
+    "types": [0, 1],
+    "id": "9"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Smilemoreworrylessdelantera.jpg?v=1714640752&width=360",
+    "title": "Smile More Worry T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 3,
+    "rating": 65,
+    "types": [0, 1],
+    "id": "10"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/staySaltyWituka.jpg?v=1710485325&width=360",
+    "title": "Stay Salty T-Shirt",
+    "sizes": [0, 1],
+    "price": 29.99,
+    "category": 3,
+    "rating": 57,
+    "types": [0, 1],
+    "id": "11"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Mesadetrabajo4_2fb0690b-6011-41a4-b955-9f4c0458d566.jpg?v=1705300735&width=360",
+    "title": "Mesa De Trabajo T-Shirt",
+    "sizes": [0, 1],
+    "price": 29.99,
+    "category": 3,
+    "rating": 46,
+    "types": [0, 1],
+    "id": "12"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Desertdelantera_f828eaf0-b493-4d5a-808e-71d1a39d2ac4.jpg?v=1700667007&width=360",
+    "title": "Desert T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 3,
+    "rating": 12,
+    "types": [0, 1],
+    "id": "13"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/TomateloConCalmaDelantera.jpg?v=1699254228&width=360",
+    "title": "Tomatelo T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 2,
+    "rating": 86,
+    "types": [0, 1],
+    "id": "14"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Riseandshinedelantera.jpg?v=1699449910&width=360",
+    "title": "Rise and Shine T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 3,
+    "rating": 54,
+    "types": [0, 1],
+    "id": "15"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/Sweetsunraysdelantera.jpg?v=1699261718&width=360",
+    "title": "Sweet Sunray T-Shirt",
+    "sizes": [0, 1, 2],
+    "price": 29.99,
+    "category": 3,
+    "rating": 87,
+    "types": [0, 1],
+    "id": "16"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/COOPER-SUDADERAANTHRACITE.jpg?v=1714380572&width=360",
+    "title": "Surfboard Sweatshirt",
+    "sizes": [0, 1, 2],
+    "price": 49.99,
+    "category": 4,
+    "rating": 95,
+    "types": [0, 1],
+    "id": "17"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/witukalinelandscape_2_57706af0-e74d-4852-8668-80a1c3971a29.jpg?v=1704793145&width=360",
+    "title": "Landscape Sweatshirt",
+    "sizes": [0, 1, 2],
+    "price": 44.99,
+    "category": 4,
+    "rating": 53,
+    "types": [0, 1],
+    "id": "18"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/goplanet_1.jpg?v=1704791509&width=360",
+    "title": "Earth Day Sweatshirt",
+    "sizes": [0, 1, 2],
+    "price": 44.99,
+    "category": 4,
+    "rating": 37,
+    "types": [0, 1],
+    "id": "19"
+  },
+  {
+    "imageUrl": "https://www.wituka.com/cdn/shop/files/YogaMeditation_1_1bcae246-a47e-4f4f-9c73-a9626a6325ba.jpg?v=1704792374&width=360",
+    "title": "Yoga Meditation Sweatshirt",
+    "sizes": [0, 1, 2],
+    "price": 49.99,
+    "category": 4,
+    "rating": 12,
+    "types": [0, 1],
+    "id": "20"
+  }
+]
