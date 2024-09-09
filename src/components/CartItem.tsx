@@ -28,16 +28,22 @@ export const CartItem: React.FC<CartItemProps> = ({
     dispatch(
       addItem({
         id,
+        title,
+        type,
+        size: String(size),
+        price,
+        count,
+        imageUrl,
       } as CartItemType)
     );
   };
 
   const onClickMinus = () => {
-    dispatch(minusItem(id));
+    dispatch(minusItem({ id, size: String(size), type }));
   };
 
   const onClickRemove = () => {
-    dispatch(removeItem(id));
+    dispatch(removeItem({ id, size: String(size), type }));
   };
 
   return (

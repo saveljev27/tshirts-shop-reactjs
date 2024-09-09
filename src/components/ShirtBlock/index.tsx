@@ -31,6 +31,7 @@ export const ShirtBlock: React.FC<ShirtBlockProps> = ({
 
   const addedCount = cartItem ? cartItem.count : 0;
   const intitalCount = cartItem ? cartItem.count + 1 : 1;
+  console.log(cartItem);
 
   const onClickAdd = () => {
     const item: CartItem = {
@@ -123,7 +124,6 @@ export const ShirtBlock: React.FC<ShirtBlockProps> = ({
               />
             </svg>
             <span>Add</span>
-            {addedCount > 0 && <i>{addedCount}</i>}
           </button>
         </div>
       </div>
